@@ -1,16 +1,13 @@
-### Hi there 👋
+# Chinmay Mangalwedhe
 
-<!--
-**cmangalwedhe/cmangalwedhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am a programmer passionate in computer science and competitive programming! I work on simulations, past competition programming packets, and more.
 
-Here are some ideas to get you started:
+### Interests:
+<li>Competitive Programming</li>
+<li>Graphics</li>
+<li>Website Development</li>
+<li>Artifical Intelligence</li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmangalwedhe&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
