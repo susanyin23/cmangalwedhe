@@ -7,7 +7,7 @@ Hello, I am a programmer passionate in computer science and competitive programm
 <li>Competitive Programming</li>
 <li>Graphics</li>
 <li>Website Development</li>
-<li>Artifical Intelligence</li>
+<li>Artificial Intelligence</li>
 
 ### Languages:
 
